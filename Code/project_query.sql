@@ -1,0 +1,1 @@
+SELECT * FROM covid19dataset.stock_vs_confirmed;
